@@ -12,11 +12,12 @@ Il faut alors voir le contenu des autres dossiers. Et on peut voir que ces derni
 On constate que ce script sert à compter les caractères par ligne. Le script peut donc voir le contenu de "solution.txt" et on peut profiter de celà
 
 Pour faire celà, on va exploiter quelque faille de Linux tel que le dossier tmp qui est un cache temporaire pour des fichiers
+
 On va combiner deux commandes à la fois qui va contourner la sécurité en exploitant les failles
 ```exc
 ./charp "solution.txt | cp solution.txt tmp/newFile.txt"
 ```
-après celà nous pourrons alors voir le contenu de solution.tx qui a été copié dans newFile.txt
+après celà nous pourrons alors voir le contenu de solution.txt qui a été copié dans newFile.txt
 ```cat
 cat tmp/newFile.txt
 ```
