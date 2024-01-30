@@ -2,7 +2,7 @@ Pour ce niveau, on va naviguer vers le dossier "05_privacy"
 ```cd
 cd /home/level/05_privacy
 ```
-On va voir ses contenants avec un
+On va voir ses contenus avec un
 ```ls
 ls
 ```
