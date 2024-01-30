@@ -1,4 +1,4 @@
-Vous entrerez sur le terminal votre compte SSH après celà:
+Vous entrerez sur le terminal votre compte SSH après avoir créer votre compte SSH:
 ```sh
  ssh -p 19198 yourname@warchall.net
 ```
