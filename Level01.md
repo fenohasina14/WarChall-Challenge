@@ -1,4 +1,4 @@
-Pour ce niveau, ilfaut parcourir plusieur dossier 
+Pour ce niveau, il faut parcourir plusieur dossier 
 ```cd
 cd /home/level/01_choice_tree/blue/hats/grey/solution/patience
 ```
