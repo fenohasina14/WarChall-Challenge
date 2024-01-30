@@ -6,7 +6,7 @@ Dans ce dossier, il y a un seul fichier "README.nfo" qui dit:"Look in your ~"
 ```cd
 cd ~
 ```
-Arrivé là bas, on va dans naviguer dans des dossiers
+Arrivé là bas, on va naviguer dans des dossiers
 ```cd
 cd ~/level/04_kwisatz 
 ```
@@ -18,7 +18,7 @@ Et on peut voir :"I wrote you an important message in README2.md". On va alors a
 ```cat
 cat README2.md
 ```
-Mais il dit qu'on n'a pas la permission pour afficher ce contenu. Et on va devoir modifier les gestions de permissions pour ce fichier
+Mais il dit qu'on n'a pas la permission pour afficher ce contenu. Et on va devoir modifier le gestion de permission pour ce fichier
 ```mod
 chmod +r README2.md
 ```
